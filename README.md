@@ -42,8 +42,3 @@ Special thanks to the following repositories for their invaluable code
 Our trainer is partially adapted from [trl](https://github.com/huggingface/trl),and evaluator is from
 [UniEval](https://github.com/maszhongming/UniEval)
 
-
-🌟 [hvo4ts/cnn-dailymail](https://huggingface.co/hvo4ts/cnn-dailymail)
-
-🌟 [hvo4ts/BillSum](https://huggingface.co/hvo4ts/BillSum/tree/main)
-
