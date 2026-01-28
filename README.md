@@ -1,6 +1,6 @@
 # HVO: Hypervolume Optimization for Multi-Objective Text Summarization based on GRPO
 ## 🎉 congratulations ！！！
-**Our work has been accepted to ICASSP 2026 **(Leading global conference in signal processing and related fields)
+Our work has been accepted to ICASSP 2026(Leading global conference in signal processing and related fields)
 <img width="303" height="428" alt="image (1)" src="https://github.com/user-attachments/assets/a2bc5580-457d-40b4-9f3f-39f7962d3536" />
 
 ## 📚 Overview
@@ -53,3 +53,12 @@ We have made the trained model checkpoint based on
 
 🌟 [hvo4ts/BillSum](https://huggingface.co/hvo4ts/BillSum/tree/main)
 
+## 🔗 citation
+```
+@article{song2025balancing,
+  title={Balancing rewards in text summarization: Multi-objective reinforcement learning via hypervolume optimization},
+  author={Song, Junjie and Liu, Yiwen and Li, Dapeng and Sun, Yin and Fu, Shukun and Chen, Siqi and Cao, Yuji},
+  journal={arXiv preprint arXiv:2510.19325},
+  year={2025}
+}
+```
