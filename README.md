@@ -1,6 +1,7 @@
 # HVO: Hypervolume Optimization for Multi-Objective Text Summarization based on GRPO
 ## 🎉 congratulations ！！！
-Our work has been accepted to ICASSP 2026 (Leading global conference in signal processing and related fields)<img width="103" height="128" alt="image (1)" src="https://github.com/user-attachments/assets/a2bc5580-457d-40b4-9f3f-39f7962d3536" />
+**Our work has been accepted to ICASSP 2026 **(Leading global conference in signal processing and related fields)
+<img width="303" height="428" alt="image (1)" src="https://github.com/user-attachments/assets/a2bc5580-457d-40b4-9f3f-39f7962d3536" />
 
 ## 📚 Overview
 Text summarization is a crucial task that requires the simultaneous optimization of multiple objectives, including consistency, coherence, relevance, and fluency, which presents considerable challenges. Although large language models (LLMs) have demonstrated remarkable performance, enhanced by reinforcement learning (RL), few studies have focused on optimizing the multi-objective problem of summarization through RL based on LLMs. In this paper, we introduce hypervolume optimization (HVO), a novel optimization strategy that dynamically adjusts the scores between groups during the reward process in RL by using the hypervolume method. This method guides the model’s optimization to progressively approximate the pareto front, thereby generating balanced summaries across multiple objectives.
